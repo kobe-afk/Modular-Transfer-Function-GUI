@@ -103,17 +103,6 @@ Key supporting modules include:
 - 🧪 Kaleido  
 
 ---
-
-## ⚠️ Limitations
-
-- Wafer map loading can be slow for:
-  - Large numbers of lenses
-  - Many RC values
-- No progress bar during long-running operations
-- Performance depends on dataset size
-
----
-
 ## 📚 Challenges & Lessons Learned
 
 ### Challenges
@@ -140,4 +129,3 @@ Key supporting modules include:
 
 ---
 
-⭐ This tool was developed as part of an R&D internship to modernise and streamline MTF analysis workflows.
